@@ -1,0 +1,4 @@
+alla oleva:below
+olut:beer
+ohjelmointi:programming
+banaani:banana
