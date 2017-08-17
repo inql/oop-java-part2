@@ -1,0 +1,29 @@
+package containers;
+
+/**
+ * Created by Dawid on 12.08.2017.
+ */
+public class ProductContainer extends Container {
+
+    private String productName;
+
+    public ProductContainer(String productName,double capacity ) {
+        super(capacity);
+        this.productName = productName;
+    }
+
+    public String getName()
+    {
+        return productName;
+    }
+
+    public void setName(String newName)
+    {
+        this.productName = newName;
+    }
+
+    public String toString()
+    {
+        return this.productName + ": volume = " + volume + ", free space " + getCurrentCapacity();
+    }
+}
