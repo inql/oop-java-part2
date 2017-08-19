@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Dawid\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week11-week11_42.MovingFigure\nbproject\build-impl.xml:926: The following error occurred while executing this line:
+C:\Users\Dawid\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week11-week11_42.MovingFigure\nbproject\build-impl.xml:268: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
